@@ -22,7 +22,7 @@ header {
     vertical-align: middle;
 }
 
-li {
+.li1 {
     display: inline;
 }
 
@@ -40,8 +40,9 @@ li {
 }
 
 .button1 {
-    border: none;
 
+    border: none;
+    font-family: 'Poppins', sans-serif;
     vertical-align: middle;
     display: inline-block;
     padding: 8px 16px;
@@ -50,4 +51,29 @@ li {
     font-size: 20px;
     line-height: 30px;
     color: #2A9D8F;
+}
+
+/* Title and text */
+.title_div {
+    margin: auto;
+    /* background-color: red; */
+    width: 1440px;
+}
+
+.title1 {
+    color: #4D4D4D;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 130%;
+    font-family: 'Poppins', sans-serif;
+    margin: 200px 548px 60px 548px;
+}
+
+.article1 {
+    margin: 0 330px 52px 330px;
+    font-family: 'Nerko One', cursive;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #656565;
 }
