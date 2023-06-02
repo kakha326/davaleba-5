@@ -132,3 +132,40 @@ header {
     color: #FFFFFF;
     margin-top: 56px;
 }
+/* section 2 */
+.section2{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 200px 130px;
+}
+
+.title4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+font-size: 48px;
+line-height: 130%;
+color: #4D4D4D;
+margin-left: 360px;
+margin-bottom: 54px;
+}
+.image_nature{
+    margin-right: 12px;
+}
+.imagetexts{
+    display:inline-block;
+   
+    
+}
+.image_text{
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+color: #535353;
+
+
+}
+.text5{
+    margin-left: 80px;
+}
