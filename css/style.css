@@ -1,2 +1,53 @@
 /* font-family: 'Nerko One', cursive; */
 /* font-family: 'Poppins', sans-serif; */
+
+/* header */
+header {
+    background: #2A9D8F;
+    width: 1440px;
+    margin: 0 auto;
+    padding: 38px 130px;
+}
+
+.logo1 {
+    display: inline-block;
+    vertical-align: middle;
+    /* background-color: red; */
+}
+
+.navbar {
+    /* background-color: blanchedalmond; */
+    margin-left: 357px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+li {
+    display: inline;
+}
+
+.navlist {
+    font-family: 'Nerko One', cursive;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.middle_text {
+    margin: 51px;
+    ;
+}
+
+.button1 {
+    border: none;
+
+    vertical-align: middle;
+    display: inline-block;
+    padding: 8px 16px;
+    margin-left: 335px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2A9D8F;
+}
