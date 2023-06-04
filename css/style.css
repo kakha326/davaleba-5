@@ -177,7 +177,8 @@ header {
 
 /* footer */
 footer {
-    margin: auto;
+    /* display: inline-block; */
+    margin-inline: auto;
     width: 1440px;
     background: #2A9D8F;
     padding: 90px 130px 145px 130px;
@@ -190,12 +191,10 @@ footer {
     /* background-color: red; */
 }
 
-.frame3 {
-    display: inline-block;
-}
-/* footer box1 */
 .box1{
-    margin-left: 634px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 625px;
     
 }
 .li2 {
@@ -210,11 +209,22 @@ footer {
 .li3 {
     color: #FFFFFF;
     font-family: 'Poppins', sans-serif;
-    font-weight: 200;
+    font-weight: 100;
     font-size: 18px;
     line-height: 27px;
 }
+
 .middleli{
     margin: 8px 0;
 }
-/* box2 */
+.box2{
+    display: inline-block;
+    vertical-align: top;
+    margin-inline: 42px;
+}
+.box3{
+    display: inline-block;
+    vertical-align: top;
+}
+
+
